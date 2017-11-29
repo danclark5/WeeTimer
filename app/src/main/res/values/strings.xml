@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeeTimer</string>
+    <string name="reset_button">Reset</string>
+    <string name="try_again_button">Try Again</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="nextAlarm">Next alarm is set for:</string>
+    <string name="nextInterval">Next interval:</string>
+</resources>
